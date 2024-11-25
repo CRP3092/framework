@@ -1,5 +1,5 @@
 <?php
 
-echo "Nueva Vista";
+echo "Nueva Vista modificada";
 
 ?>
